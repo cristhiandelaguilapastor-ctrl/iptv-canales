@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,CABLE DAP - L1 Max
+https://ag9wzq.fubohd.com/liga1max/mono.m3u8?token=86de0cdb1e1b2e188215c3879eeeb8dccd512c6b-3e-1773722579-1773704579
+
 #EXTINF:-1,CABLE DAP - ATV
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
 
