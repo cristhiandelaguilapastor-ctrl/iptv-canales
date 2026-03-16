@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Latina TV
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=b2206961340269b7101564636
-
-#EXTINF:-1,america tv
-https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=77mMCpSSq63f7GpZOM5MkNIb8ukoNiOg&sid=OXiuKA1LhYMAxrVspC38wVjdVMJssXA5&pid=TSXYjrgb26pimDIwVK239Lq3p94AgTOT&pid_dvr=vPmuHjDCMtEF5YIHD1PxHDrTK0hO9TjQ&an=tvGO-live&at=web-app&av=v6.0.269&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=549x309&without_cookies=false&listenerid=&dnt=true&access_token=sCnQA8WZeS5rBrpE0RlpYdVcuJ9GGeNMUyNqHBtSI9spou9pgDCVO45eymNNo1jLOoyrV41cjdN&CMCD=cid%3D%226099b04d9418ac082441dd74%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22TSXYjrgb26pimDIwVK239Lq3p94AgTOT%22%2Csu
-
 #EXTINF:-1,atv
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
 
@@ -18,6 +12,9 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 #EXTINF:-1,Panamericana
 https://live.cdnlivecdn.com/live/cde7c1935927ca1cf540d70c835deb58aca3fd15.m3u8?_=1773681849398
 
+
+#EXTINF:-1,AmericaTv
+https://regionales.saohgdasregions.fun:9092/MTc5LjYuMzkuMTY1/20_.m3u8?token=ajJWcsmMF-sdiF_eAgC-TA&expires=1773727586
 
 
 
