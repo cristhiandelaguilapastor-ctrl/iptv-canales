@@ -18,7 +18,8 @@ https://regionales.saohgdasregions.fun:9092/MTc5LjYuMzkuMTY1/20_.m3u8?token=ajJW
 https://origin.dpsgo.com/ssai/event/LIxDWCRXQWiMvDmmq8_zgw/master.m3u8
 
 #EXTINF:-1,CABLE DAP - Latina
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b2206961340269b7101564636&sid=ba5t1l1xb2126389058369b890c7b3c30&ndvc=0
+
 
 #EXTINF:-1,CABLE DAP - Uranio Tv
 https://live.obslivestream.com/uraniotv/index.m3u8
@@ -26,6 +27,14 @@ https://live.obslivestream.com/uraniotv/index.m3u8
 
 #EXTINF:-1,CABLE DAP - ESPN Premium
 https://qzv4jmsc.fubohd.com/espnpremium/mono.m3u8?token=6a7bf8db6df9485929c971d91e652d59fb808753-c6-1773719572-1773701572
+
+#EXTINF:-1,CABLE DAP - Autentica Tv Lima
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,CABLE DAP - AmericaTv FHD
+https://regionales.saohgdasregions.fun:9092/MTc5LjYuMzkuMTY1/20_.m3u8?token=vz5iuT_lpboHIV12xwBRRA&expires=1773746797
+
+
 
 
 
